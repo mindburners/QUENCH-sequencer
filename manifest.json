@@ -1,6 +1,6 @@
 {
-  "name": "PAM — Firmware Installer",
-  "version": "2.1",
+  "name": "QUENCH — Firmware Installer",
+  "version": "2",
   "new_install_prompt_erase": true,
   "builds": [
     {
